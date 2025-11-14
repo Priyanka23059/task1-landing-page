@@ -13,4 +13,4 @@ A simple responsive landing page built with HTML5 and CSS3 for Web Development T
 - screenshots/
 
 ## Author
-Your Name
+Priyanka
